@@ -13,6 +13,12 @@ const config: Config = {
         alumni: ["Alumni Sans", "sans-serif"],
         langar: ["Langar", "system-ui"],
       },
+      backgroundImage: {
+        'hero-bg': "url('/hero-bg.jpg')",
+      },
+      colors: {
+        overlay: '#0000008C'
+      },
     },
   },
   plugins: [],
